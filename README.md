@@ -14,6 +14,8 @@ There are two methods for getting started with this repo.
 ### Prequisites
 
 For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
+**Requirement**: For Open WeatherMap API: [Click Here](https://openweathermap.org/api)
+
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:

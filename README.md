@@ -5,7 +5,7 @@ Based on ReactJs
 ## About the App
 
 This App has custom weather Engine with which a city can be searched, which then shows City Map and graph of Pressure, Humidity and Temperature with their Averages
-See the Screenshot:  ![Click Here For Screeshot](http://tinypic.com/m/k3vpyh/1)
+See the Screenshot:  ![Click Here For Screeshot](http://oi67.tinypic.com/2lwpqpg.jpg)
 
 ## Getting Started
 

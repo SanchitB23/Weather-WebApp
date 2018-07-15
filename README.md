@@ -1,4 +1,4 @@
-# Weather Aoo
+# Weather App
 
 Based on ReactJs
 

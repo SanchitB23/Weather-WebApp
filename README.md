@@ -6,7 +6,7 @@ Based on ReactJs
 
 There are two methods for getting started with this repo.
 
-###Prequisites
+### Prequisites
 
 For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
 

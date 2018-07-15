@@ -1,5 +1,5 @@
 import axios from 'axios'; //// NOTE: similar to ajax thingy... will be used to parse like json api
-const API_KEY = '5ce472f71eb1262a664a1acae6ef18d7';
+const API_KEY = ''; //Add your own API Key
 const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 export const FETCH_WEATHER = 'FETCH_WEATHER';
 

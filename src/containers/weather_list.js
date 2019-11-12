@@ -9,7 +9,7 @@ class WeatherList extends Component {
   // constructor() {
   //
   // }
-  renderWeather(cityData){
+  static renderWeather(cityData){
     const cityName = cityData.city.name;
     const temps = cityData.list.map(weather =>weather.main.temp);
     const humidity = cityData.list.map(weather =>weather.main.humidity);
@@ -46,7 +46,7 @@ class WeatherList extends Component {
           </tr>
         </thead>
         <tbody>
-          {this.props.weather.map(this.renderWeather)}
+          {this.props.weather.map(WeatherList.renderWeather)}
         </tbody>
       </table>
     );
